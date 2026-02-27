@@ -1,4 +1,4 @@
-#👋 Hi, I'm Santhosh M
+# 👋 Hi, I'm Santhosh M
 
 Full Stack Developer specializing in Python and JavaScript, with hands-on experience building scalable web and mobile applications. I work across the full development lifecycle using Flutter, Next.js, Nest.js, PostgreSQL, and MySQL, with strong expertise in REST API integration and backend architecture.
 
