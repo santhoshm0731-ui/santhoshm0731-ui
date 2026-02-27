@@ -75,6 +75,6 @@ Developed a real-time weather app with external API integration and responsive U
 
 ## 📊 GitHub Stats
 
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshm0731-ui&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=santhoshm0731-ui&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshm0731-ui&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=santhoshm0731-ui&layout=compact&hide_border=true)
