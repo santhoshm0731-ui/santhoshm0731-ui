@@ -6,7 +6,7 @@ Currently, I am working as a Full Stack Developer Trainee at KUVI Networks, cont
 
 I am particularly interested in backend systems, AI-driven applications, and scalable product development.
 
-#💻 Technical Skills
+## 💻 Technical Skills
 
 ### Languages:
 - Python • JavaScript • Basic C
@@ -34,9 +34,9 @@ I am particularly interested in backend systems, AI-driven applications, and sca
 - Production Deployment
 - Clean Code Practices
 
-### 🚀 Professional Experience
+## 🚀 Professional Experience
 
-- Full Stack Developer Trainee – KUVI Networks
+### Full Stack Developer Trainee – KUVI Networks
 
 - Contributing to a live production Flutter application
 
@@ -49,25 +49,25 @@ I am particularly interested in backend systems, AI-driven applications, and sca
 https://play.google.com/store/apps/details?id=com.belivmart.app&pcampaignid=web_share
 ```
 
-### 🧠 Notable Projects
-#### AI Medical Assistant
+##🧠 Notable Projects
+### AI Medical Assistant
 
 Developed an AI-powered healthcare assistant using Python and Django with machine learning integration for disease prediction and intelligent health insights.
 
-#### Snake Game (Python)
+### Snake Game (Python)
 
 Built a classic snake game to strengthen core programming logic and object-oriented concepts.
 
-#### Weather Application (Flutter)
+### Weather Application (Flutter)
 
 Developed a real-time weather app with external API integration and responsive UI design.
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - Participated in a 24-Hour Hackathon
 - Contributing to production-grade mobile applications
 
-### 📫 Contact
+## 📫 Contact
 ```
 📧 Email: santhoshm0731@gmail.com
 
