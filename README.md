@@ -45,9 +45,9 @@ I am particularly interested in backend systems, AI-driven applications, and sca
 - Working with real-world business logic and scalable systems
 
 ### 📱 Live Application:
-```
-https://play.google.com/store/apps/details?id=com.belivmart.app&pcampaignid=web_share
-```
+
+##### https://play.google.com/store/apps/details?id=com.belivmart.app&pcampaignid=web_share
+
 
 ## 🧠 Notable Projects
 ### AI Medical Assistant
@@ -75,6 +75,6 @@ Developed a real-time weather app with external API integration and responsive U
 
 ## 📊 GitHub Stats
 
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshm0731-ui&show_icons=true&theme=tokyonight)
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshm0731-ui&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshm0731-ui&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshm0731-ui&layout=compact&hide_border=true)
