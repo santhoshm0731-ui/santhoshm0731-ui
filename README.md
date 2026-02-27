@@ -49,7 +49,7 @@ I am particularly interested in backend systems, AI-driven applications, and sca
 https://play.google.com/store/apps/details?id=com.belivmart.app&pcampaignid=web_share
 ```
 
-##🧠 Notable Projects
+## 🧠 Notable Projects
 ### AI Medical Assistant
 
 Developed an AI-powered healthcare assistant using Python and Django with machine learning integration for disease prediction and intelligent health insights.
