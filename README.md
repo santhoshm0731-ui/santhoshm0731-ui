@@ -68,11 +68,11 @@ Developed a real-time weather app with external API integration and responsive U
 - Contributing to production-grade mobile applications
 
 ## 📫 Contact
-```
-📧 Email: santhoshm0731@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/santhosh-m-713a09351/
-```
+##### 📧 Email: santhoshm0731@gmail.com
+
+##### 🔗 LinkedIn: https://www.linkedin.com/in/santhosh-m-713a09351/
+
 ## 📊 GitHub Stats
 
 ![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshm0731-ui&show_icons=true&theme=tokyonight)
