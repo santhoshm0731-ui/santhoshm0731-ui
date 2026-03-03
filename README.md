@@ -14,13 +14,12 @@ I am particularly interested in backend systems, AI-driven applications, and sca
 ### Frontend Development:
 - Flutter
 - Next.js
-- HTML
-- CSS
 - Tailwind CSS
 
 ### Backend Development:
 - Nest.js
 - REST API Development
+- Django
 - Backend Architecture
 
 ### Databases:
