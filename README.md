@@ -9,9 +9,11 @@ I am particularly interested in backend systems, AI-driven applications, and sca
 ## 💻 Technical Skills
 
 ### Languages:
-- Python • JavaScript • Basic C
+- Python • JavaScript • Basic C •Flutter 
 
 ### Frontend Development:
+- HTML
+- CSS
 - Flutter
 - Next.js
 - Tailwind CSS
